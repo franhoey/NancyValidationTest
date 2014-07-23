@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyValidationTest", "NancyValidationTest\NancyValidationTest.csproj", "{2328459F-7F12-4AEB-8E3D-7A38CE2B9F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{EC5EA63E-42C1-4B14-A767-34C18C7DE825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2328459F-7F12-4AEB-8E3D-7A38CE2B9F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2328459F-7F12-4AEB-8E3D-7A38CE2B9F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2328459F-7F12-4AEB-8E3D-7A38CE2B9F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2328459F-7F12-4AEB-8E3D-7A38CE2B9F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5EA63E-42C1-4B14-A767-34C18C7DE825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5EA63E-42C1-4B14-A767-34C18C7DE825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5EA63E-42C1-4B14-A767-34C18C7DE825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5EA63E-42C1-4B14-A767-34C18C7DE825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
